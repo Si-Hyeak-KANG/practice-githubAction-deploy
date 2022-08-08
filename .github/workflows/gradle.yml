@@ -15,10 +15,7 @@ on:
 
 permissions:
   contents: read
-
-env:
-  S3_BUCKET_NAME: be-pair-61
-
+  
 jobs:
   build:
 
